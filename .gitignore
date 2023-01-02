@@ -1,0 +1,13 @@
+[11:48] Srinivas Reddy
+**/target/
+/target/
+*/target/*
+.classpath
+.project
+.settings
+ 
+# Package Files #
+*.jar
+*.war
+*.ear
+
